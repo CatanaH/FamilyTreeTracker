@@ -1,0 +1,6 @@
+family tree tracker, goes back four generations at a time. displays in command line a visual print out of the tree structure
+
+run in command line with 'python fam_tree1.py'
+
+reads family trees from 'fam_base_list.py'
+stores individual tree's data to their own python file, named after base of tree member
